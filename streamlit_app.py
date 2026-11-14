@@ -2,7 +2,7 @@ import streamlit as st
 from pathlib import Path
 
 st.set_page_config(page_title="Jemez Coop & Sandoval Landfill", layout="wide")
-st.title("⚡ Jemez Mountains Electric Coop & Sandoval County Landfill")
+st.title("⚡ Energy Reliability in Cuba NM, Jemez Mountain Coop Data")
 
 # 1. Check both the current folder and the 'Graphs' subfolder for local .png files
 CURRENT_DIR = Path(__file__).parent
