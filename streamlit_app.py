@@ -1,7 +1,7 @@
 import streamlit as st
 from pathlib import Path
 
-st.set_page_config(page_title="Jemez Coop & Sandoval Landfill", layout="wide")
+st.set_page_config(page_title="Team 25 ENG 220 Cuba Energy Reliability Project", layout="wide")
 st.title("⚡ Energy Reliability in Cuba NM, Jemez Mountains Coop Data")
 
 # 1. Check both the current folder and the 'Graphs' subfolder for local .png files
